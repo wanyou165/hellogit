@@ -1,6 +1,5 @@
-class HelloBranch {
+object branch {
   def main(args: Array[String]): Unit = {
-    print("hello branch")
+    println("1")
   }
-
 }
